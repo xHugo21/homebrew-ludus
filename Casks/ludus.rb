@@ -1,6 +1,6 @@
 cask "ludus" do
   version "0.1.0"
-  sha256 "28d0aae98e67dced035bad197b94ae400b47948a85c52b477fedc54c55a5dd16"
+  sha256 "92b09548d0164740b1fbe99ae292cbc8d26563bcbd9f551821a1371698b38d61"
 
   url "https://ludusapp.pages.dev/dl/Ludus-#{version}.dmg",
       verified: "ludusapp.pages.dev/dl/"
